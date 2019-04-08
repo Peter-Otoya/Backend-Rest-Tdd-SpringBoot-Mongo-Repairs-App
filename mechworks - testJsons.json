@@ -1,0 +1,5 @@
+{"id":1, "vehicle": { "plates":"GNU815", "category":"CAR", "numOfSeats":4 }, "repairs":[ { "id":1, "type":"PROCEDURE_A" } ] }
+
+{"id":1,"vehicle":{"plates":"GNU738","category":"CAR","numOfSeats":2},"repairs":[{"id":1,"type":"PROC_A","estTimeInHours":null,"status":"CREATED"}]}
+
+{"id":1,"vehicle":{"plates":"GNU738","numOfSeats":4,"category":"CAR"},"repairs":[{"id":1,"estTimeInHours":null,"status":"CREATED","type":"PROC_A"}],"creationDate":1553663616210}
